@@ -1,0 +1,10 @@
+img {
+    width: 200px;
+}
+
+body {
+    text-align: center;
+    font-family: 'Courier';
+    background: rgb(255, 224, 232);
+    color: rgb(124, 48, 73);
+}
